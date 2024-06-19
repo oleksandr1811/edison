@@ -1,0 +1,290 @@
+.container1 {
+    background-image: url(./img/pic.png)
+}
+.header {
+    display: flex;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+.admin {
+    display: flex;
+    margin-left: 25%;
+    margin-top: 5px;
+}
+.nav {
+    margin-left: 50px;
+    margin-top: 5px;
+}
+.alink1 {
+    color: #4D66EC;
+}
+.alink2 {
+    margin-left: 10px;
+}
+.alink3 {
+    margin-left: 10px;
+}
+.alink4 {
+    margin-left: 10px;
+}
+.alink5 {
+    margin-left: 10px;
+}
+.alink6 {
+    margin-left: 10px;
+    color: red;
+}
+.alink7 {
+    margin-left: 10px;
+}
+.admin2 {
+    margin-left: 15px;
+}
+.admin3 {
+    margin-left: 15px;
+}
+.alinkadmin1 {
+    margin-left: 3px;
+}
+.alinkadmin2 {
+    margin-left: 3px;
+}
+.alinkadmin3 {
+    margin-left: 3px;
+}
+.container {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.main1 {
+    margin-left: 7%;
+    margin-top: 14%;
+}
+.title1 {
+    color: #4A5FCF;
+    font-size: 700%;
+    width: 504px;
+}
+.buttom {
+    background-color: #4D66EC;
+}
+.top1 {
+    display: flex;
+}
+.product {
+    display: flex;
+}
+.product2{
+    margin-left: 15px;
+    width: 278px;
+    height: 403px;
+}
+.product3{
+    margin-left: 15px;
+    width: 278px;
+    height: 403px;
+}
+.product4{
+    margin-left: 15px;
+    width: 278px;
+    height: 403px;
+}
+.product1 {
+    width: 278px;
+    height: 403px;
+}
+.textproduct1 {
+    display: flex;
+}
+.textproduct2 {
+    display: flex;
+}
+.textproduct3 {
+    display: flex;
+}
+.textproduct4 {
+    display: flex;
+}
+.priceproduct1 {
+    margin-left: 70px;
+}
+.priceproduct2 {
+    margin-left: 70px;
+}
+.priceproduct3 {
+    margin-left: 70px;
+}
+.priceproduct4 {
+    margin-left: 70px;
+}
+.infoproduct1 {
+    color: #4D66EC;
+}
+.buyproduct1 {
+    background-color: orange;
+    margin-left: 75px;
+}
+.infoproduct2 {
+    color: #4D66EC;
+}
+.buyproduct2 {
+    background-color: orange;
+    margin-left: 75px;
+}
+.infoproduct3 {
+    color: #4D66EC;
+}
+.buyproduct3 {
+    background-color: orange;
+    margin-left: 75px;
+}
+.infoproduct4 {
+    color: #4D66EC;
+}
+.buyproduct4 {
+    background-color: orange;
+    margin-left: 75px;
+}
+.allblog1 {
+    background-color: #4D66EC;
+}
+.allblog2 {
+    background-color: #4D66EC;
+}
+.allblog3 {
+    background-color: #4D66EC;
+}
+.buttomall1 {
+    margin-top: 30px;
+    margin-left: 60%;
+}
+.blog1 {
+    width: 380px;
+    height: 471px;
+}
+.titleblog1 {
+    font-weight: 900;
+}
+.blog2 {
+    width: 380px;
+    height: 471px;
+    margin-left: 25px;
+}
+.titleblog2 {
+    font-weight: 900;
+}
+.blog3 {
+    width: 380px;
+    height: 471px;
+    margin-left: 25px;
+}
+.titleblog3 {
+    font-weight: 900;
+}
+.blog {
+    display: flex;
+}
+.top2 {
+    display: flex;
+}
+.buttomall2 {
+    margin-top: 30px;
+    margin-left: 75%;
+}
+.feedback1 {
+    width: 407px;
+    height: 235px;
+    border:1px solid black;
+}
+.feedbacktext1 {
+    display: flex;
+}
+.feedbacktitle1 {
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.feedbackdate1 {
+    margin-left: 170px;
+}
+.feedbackinfo1 {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.feedback2 {
+    width: 407px;
+    height: 235px;
+    border:1px solid black;
+    margin-left: 25px;
+}
+.feedbacktext2 {
+    display: flex;
+}
+.feedbacktitle2 {
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.feedbackdate2 {
+    margin-left: 170px;
+}
+.feedbackinfo2 {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.feedback {
+    display: flex;
+}
+.feedback3 {
+    width: 407px;
+    height: 235px;
+    border:1px solid black;
+    margin-left: 25px;
+}
+.feedbacktext3 {
+    display: flex;
+}
+.feedbacktitle3 {
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.feedbackdate3 {
+    margin-left: 170px;
+}
+.feedbackinfo3 {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.feedbacktext {
+    display: flex;
+}
+.buttomall3 {
+    margin-top: 33px;
+    margin-left: 1100px;
+}
+.footer {
+    margin-top: 25px;
+}
+.footer1 {
+    width: 235px;
+    height: 235px;
+}
+.footercontacts {
+    margin-top: 15px;
+}
+.footertext {
+    display: flex;
+}
+.footer1block {
+    display: flex;
+}
+.footer3 {
+    margin-left: 100px;
+}
+.footer4 {
+    margin-left: 100px;
+}
+.footer5img2 {
+    margin-top: 25px;
+}
+.footer5 {
+    margin-left: 40px;
+}
